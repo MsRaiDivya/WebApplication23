@@ -12,6 +12,9 @@ namespace WebApplication23.Controllers
         {
             return View();
         }
-
+        public ActionResult AboutUs()
+        {
+            return View();
+        }
     }
 }
